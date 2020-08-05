@@ -5,3 +5,4 @@ let group = 0
 function sender () {
     console("sender")
 }
+let group = 1
